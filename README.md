@@ -1,11 +1,5 @@
 # 03_ShellScript
 # 03_ShellScript
 # 03_ShellScript
-# 03_linux
-# 03_linux
-# 03_linux
-# 03_linux
-# 03_linux
-# 03_linux
 # 03_ShellScript
 # 03_ShellScript
