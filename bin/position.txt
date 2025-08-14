@@ -1,0 +1,8 @@
+--------------------------------
+                    xxx xxx xxx
+ooo ooo xxx ooo     ooo xxx ooo
+xxx ooo ooo ooo     xxx xxx xxx
+xxx xxx ooo ooo     ooo ooo ooo
+    xxx xxx ooo     ooo ooo ooo
+--------------------------------
+            강사(ooo)
